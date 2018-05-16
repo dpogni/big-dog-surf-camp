@@ -1,0 +1,266 @@
+ 
+
+/* TYPOGRAPHY */
+@import 'reset.css';
+
+/* TYPOGRAPHY */
+@import 'typography.css';
+
+
+/* Misc classes and elements
+-------------------------------------------------------------- */
+
+/* Use a .box to create a padded box inside a column.  */ 
+.box { 
+  padding: 1.5em; 
+  margin-bottom: 1.5em; 
+  background: #E5ECF9; 
+}
+
+/* Use this to create a horizontal ruler across a column. */
+hr {
+  background: #ddd; 
+  color: #ddd;
+  clear: both; 
+  float: none; 
+  width: 100%; 
+  height: .1em;
+  margin: 0 0 1.45em;
+  border: none; 
+}
+hr.space {
+  background: #fff;
+  color: #fff;
+}
+
+
+/* Clearing floats without extra markup
+   Based on How To Clear Floats Without Structural Markup by PiE
+   [http://www.positioniseverything.net/easyclearing.html] */
+
+.clearfix:after, .container:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+.clearfix, .container {display: inline-block;}
+* html .clearfix,
+* html .container {height: 1%;}
+.clearfix, .container {display: block;}
+
+/* Regular clearing
+   apply to column that should drop below previous ones. */
+
+.clear { clear:both; }
+
+
+
+/* MAIN */
+body {
+background:url(../images/main_bg.png) repeat-x top #DEF0FF;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+h1 {
+color:#d33872;
+margin-top:10px;
+}
+
+h3 {
+color:#666;
+margin-bottom:9px;
+}
+
+ul a {
+float:left;
+}
+
+ul {
+color:#666;
+float:left;
+}
+
+.container {
+background:url(../images/loading.gif) no-repeat center 120px;
+margin:0 auto;
+text-align:left;
+}
+
+a,a:link,a:visited {
+color:red;
+font-weight:700;
+}
+
+.banner,.banner2,.banner3 {
+background:#ff9;
+clear:both;
+display:block;
+float:left;
+padding:9px;
+}
+
+.banner2 {
+background:#eee;
+}
+
+.banner3 {
+background:#fff;
+}
+
+.banner3 a {
+color:#666;
+font-weight:400;
+}
+
+.checklist.ul {
+line-height:1.3em;
+font-size: 1.7em;
+list-style:circle;
+margin:10px 20px 30px;
+padding:0;
+}
+
+.clear {
+clear:both;
+}
+
+.info {
+color:#666;
+float:left;
+margin:0 auto;
+padding:3px 10px;
+text-align:left;
+}
+
+.info.ul {
+line-height:1.6em;
+font-size: 14px;
+margin:0 6px 10px 15px;
+padding:0;
+width: 100%;
+}
+
+.maincontent {
+margin:0 auto;
+padding:30px 30px 40px;
+width:664px;
+}
+
+.madeby {
+width: 700px;
+padding-top: 10px;
+margin: 0 auto;
+text-align: right;
+font-style: italic;
+font-size: .9em;
+}
+
+.right {
+float:right;
+text-align:left;
+}
+
+.thecontainer {
+background:#fff;
+line-height:1.6em;
+margin:0 auto;
+text-align:left;
+width:700px;
+}
+
+.qoute{
+color: blue;
+font-size:20px;
+line-height: 24px;
+}
+
+
+#mediaList{
+list-style:  none;
+font-size: 15px;}
+
+#pdfList {
+clear:both;
+float:left;
+list-style:none;
+margin:0;
+padding:0;
+}
+
+#pdfList li {
+clear:both;
+display:block;
+float:left;
+margin-bottom:9px;
+}
+
+#pdfList li a {
+border:1px solid #eee;
+color:green;
+line-height:30px;
+padding:3px;
+text-decoration:none;
+width:180px;
+}
+
+#pdfList li a img {
+float:left;
+margin-right:9px;
+}
+
+#pdfList li a:hover {
+background:#f0f0f0;
+color:#000;
+}
+
+#contentPhoto {
+float:right;
+height:350px;
+margin:20px 20px 20px 0;
+}
+
+#nav {
+background:#f0f0f0;
+color:#aaa;
+display:block;
+font-size:1.2em;
+font-weight:700;
+margin:0 auto;
+padding:18px 0;
+width:700px;
+
+}
+
+#nav a {
+color:#f63;
+font-weight:700;
+padding:5px 9px;
+text-transform:lowercase;
+text-decoration: none;
+}
+
+#nav a:hover {
+color:#c39;
+text-decoration: none;
+}
+
+#footer {
+background:#f0f0f0;
+color:#666;
+display:block;
+font-size:1em;
+font-weight:400;
+margin:0 auto;
+padding:20px 0;
+width:700px;
+}
+
+#footer a {
+color:#999;
+}
+
+
