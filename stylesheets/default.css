@@ -95,6 +95,11 @@ color:red;
 font-weight:700;
 }
 
+.highlight {
+	background-color:#ff9;
+	padding: 5px;
+}
+
 .banner,.banner2,.banner3 {
 background:#ff9;
 clear:both;

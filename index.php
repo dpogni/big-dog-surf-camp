@@ -33,20 +33,20 @@
 		<p>Campers should be dropped off at <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a> (254 Shoreline Hwy, Mill Valley) and will be shuttled to the beach. The camp runs from 9am to 4pm.</p>
 
   	<hr/>
-	<h3>New summer 2018 dates</h3>
+	<h3>Summer 2019 dates</h3>
 	<ul class="info ul">
-		<li>June 11 — 15</li>
-		<li>June 18 — 22</li>
-		<li><del>June 25 — 29</del> (Full)</li>
-		<li>July 2, 3, 5, 6 (not on 4th)</li>
-		<li>July 9 — 13</li>
-		<li><del>July 16 — 20</del> (Full)</li>
-		<li>July 23 — 27</li>
-		<li>July 30 — Aug 3</li>
-		<li>Aug 6 — 10</li>
-		<li>Aug 13 — 17</li>
-		<li>Aug 20 — 24</li>
-		<li>Aug 27 — 31</li>
+		<li>June 10 — 14</li>
+		<li><del>June 17 — 21</del> <span class="highlight">Full</span></li>
+		<li>June 23 — 28</li>
+		<li>July 1 – 3 (half week - $360)</li>
+		<li>July 8 — 12</li>
+		<li>July 15 — 19</li>
+		<li>July 22 — 26</li>
+		<li>July 29 — Aug. 2</li>
+		<li>Aug. 5 — 9</li>
+		<li>Aug. 12 — 16</li>
+		<li>Aug. 19 — 23</li>
+		<li>Aug. 26 — 30</li>
 	</ul>
 
 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span>

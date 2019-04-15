@@ -26,9 +26,9 @@
 		<h3>Sign Up</h3>
 		<p>
 			Please print and fill out the forms attached. Follow the directions and send a check and both filled out pages to the address shown.</p>
-		<p class="clear"><em>We will send you a conformation email as soon as we receive it.</em> Feel free to call or email with any further question and we’ll see you soon!</p>
+		<p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em> Feel free to call or email with any further question and we’ll see you soon!</p>
 
-		<p><span class="banner"><strong>Weekly camps are $550 and day of drop-ins are $120 if available.</strong></span></p>
+		<p><span class="banner"><strong>Weekly camps are $600 and day of drop-ins are $150 if available.</strong></span></p>
 
 		<br class="clear"/><br/>
 
@@ -37,7 +37,7 @@
 			<a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="download" />Waiver</a>
 			</li>
 			<li>
-			<a href='/pdfs/RegForm2018.pdf'><img src='/images/pdf_icon.png' alt="download" />2018 Registration Form</a></strong>
+			<a href='/pdfs/RegForm2019.pdf'><img src='/images/pdf_icon.png' alt="download" />2019 Registration Form</a></strong>
 			</li>
 		</ul>
 
