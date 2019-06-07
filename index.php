@@ -37,9 +37,9 @@
 	<ul class="info ul">
 		<li>June 10 — 14</li>
 		<li><del>June 17 — 21</del> <span class="highlight">Full</span></li>
-		<li>June 23 — 28</li>
+		<li><del>June 23 — 28</del> <span class="highlight">Full</span></li>
 		<li>July 1 – 3 (half week - $360)</li>
-		<li>July 8 — 12</li>
+		<li><del>July 8 — 12</del> <span class="highlight">Full</span></li>
 		<li>July 15 — 19</li>
 		<li>July 22 — 26</li>
 		<li>July 29 — Aug. 2</li>
