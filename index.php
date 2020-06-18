@@ -7,13 +7,12 @@
   	 	<meta name="copyright" content="(c) Big Dog!">
   		<meta name="author" content="deanpogni.com	">
   		<meta name="email" content="bigdogsurfcamp@gmail.com">
-  		<meta name="Charset" content="UTF-8">
-  		<meta name="Distribution" content="Local">
-  		<meta name="Rating" content="General">
-  		<meta name="Robots" content="INDEX,FOLLOW">
+  		<meta name="charset" content="UTF-8">
+  		<meta name="distribution" content="Local">
+  		<meta name="rating" content="General">
+  		<meta name="robots" content="INDEX,FOLLOW">
   		<meta name="Revisit-after" content="7 Day">
 		<title>Big Dog Surf Camp - <?php echo date("Y"); ?></title>
-
 		<link rel="stylesheet" href="stylesheets/default.css" media="screen" />
 	</head>
 <body>
@@ -31,26 +30,31 @@
 		<p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is perfect for any young eager kids living in Marin County and San Francisco. We will provide the boards &amp; wetsuits. Week long and single sessions are available. We will be surfing in Marin. Students must know how to swim and be ready to have a fun time.</p>
 
 		<p>Campers should be dropped off at <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a> (254 Shoreline Hwy, Mill Valley) and will be shuttled to the beach. The camp runs from 9am to 4pm.</p>
+		
+		<p class="banner">If you have any questions, please email us at <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a></p>
+ 
+ <hr />
 
-  	<hr/>
 	<h3>Summer 2020 dates</h3>
+	
 	<ul class="info ul">
-                <li>June 8 — 12</li>
-                <li>June 15 — 19</li>
-                <li>June 22 — 26</li>
-                <li>June 29 – July 3</li>
-                <li>July 6 — 10</li>
-                <li>July 13 — 17</li>
-                <li>July 20 — 24</li>
-                <li>July 27 — 31</li>
-                <li>Aug. 3 — 7</li>
-                <li>Aug. 10 — 14</li>
-                <li>Aug. 17 — 21</li>
-                <li>Aug. 24 — 28</li>
-                <li>Aug. 31 — Sept. 4</li>
+        <li>June 8 — 12</li>
+        <li><del>June 15 — 19</del> (sold out)</li>
+        <li><del>June 22 — 26</del> (sold out)</li>
+        <li><del>June 29 – July 3</del> (sold out)</li>
+        <li><del>July 6 — 10</del> (sold out)</li>
+        <li><del>July 13 — 17</del> (sold out)</li>
+        <li><del>July 20 — 24</del> (sold out)</li>
+        <li>July 27 — 31</li>
+        <li>Aug. 3 — 7</li>
+        <li>Aug. 10 — 14</li>
+        <li>Aug. 17 — 21</li>
+        <li>Aug. 24 — 28</li>
+        <li>Aug. 31 — Sept. 4</li>
 	</ul>
+	<p class="banner">CDC guidelines mandate campers enroll for 3 weeks at a time.</p>
 
-	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span>
+<!-- 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span> -->
 </div>
 
 

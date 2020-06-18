@@ -1,12 +1,9 @@
+RewriteEngine On
+
 Redirect 301 /whattobring.html /what-to-bring
 Redirect 301 /about.html /about
 Redirect 301 /lessons.html /lessons
 Redirect 301 /media.html /media
 Redirect 301 /signup.html /sign-up
-Redirect 301 /pdfs/RegForm2008.pdf /pdfs/RegForm2015.pdf
-Redirect 301 /pdfs/RegForm2009.pdf /pdfs/RegForm2015.pdf
-Redirect 301 /pdfs/RegForm2010.pdf /pdfs/RegForm2015.pdf
-Redirect 301 /pdfs/RegForm2011.pdf /pdfs/RegForm2015.pdf
-Redirect 301 /pdfs/RegForm2012.pdf /pdfs/RegForm2015.pdf
-Redirect 301 /pdfs/RegForm2013.pdf /pdfs/RegForm2015.pdf
-Redirect 301 /pdfs/RegForm2014.pdf /pdfs/RegForm2015.pdf
+RewriteRule ^pdfs/RegForm201.*\.pdf$ /pdfs/RegForm2020.pdf [R=301,L]
+RewriteRule ^pdfs/RegForm200.*\.pdf$ /pdfs/RegForm2020.pdf [R=301,L]
