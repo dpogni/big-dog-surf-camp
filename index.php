@@ -23,8 +23,10 @@
 
     <div class="thecontainer">
         <div class="maincontent clearfix">
-            <iframe style="display:block;margin:0 auto; text-align:center;" src="http://player.vimeo.com/video/98771622?title=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-            <p style="text-align:center;"><a href="http://vimeo.com/98771622">Big Dog Surf Camp</a> from <a href="http://vimeo.com/user5591658">Perry Gershkow</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+            <div class="video-player">
+                <iframe style="display:block;margin:0 auto; text-align:center;" src="http://player.vimeo.com/video/98771622?title=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+                <p style="text-align:center;"><a href="http://vimeo.com/98771622">Big Dog Surf Camp</a> from <a href="http://vimeo.com/user5591658">Perry Gershkow</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+            </div>
 
             <div style="width:350px;float:left;">
 
@@ -32,9 +34,12 @@
 
                 <p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is perfect for any young eager kids living in Marin County and San Francisco. We will provide the boards &amp; wetsuits. Week long and single sessions are available. We will be surfing in Marin. Students must know how to swim and be ready to have a fun time.</p>
 
-                <p>Campers should be dropped off at <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a> (254 Shoreline Hwy, Mill Valley) and will be shuttled to the beach. The camp runs from 9am to 4pm.</p>
+                <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at 240 Shoreline Hwy, Mill Valley, and will be shuttled to the beach. The camp runs from 9am to 4pm.</p>
 
-                <p class="banner">If you have any questions, please email us at <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a></p>
+                <div class="banner">
+                    <p>Per CDC guidelines, <u>campers must be signed up for 3 consecutive weeks</u>. Campers can attend just 2 if they quarantine the 3rd week.</p>
+                    <p>If you have any questions, please email us at <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a></p>
+                </div>
 
                 <hr />
 
@@ -55,18 +60,18 @@
                     <li>Aug. 24 — 28</li>
                     <li>Aug. 31 — Sept. 4</li>
                 </ul>
-                <p class="banner">CDC guidelines mandate campers enroll for 3 weeks at a time.</p>
                 <!-- 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span> -->
             </div>
             <div style="width: 300px; float: right;">
-
-                <iframe src="http://player.vimeo.com/video/70013062?title=0&amp;byline=0&amp;portrait=0&amp;color=bbbcbd" width="300" height="169" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-                <p style="text-align:center;"><a href="http://vimeo.com/70013062">The Sunnydale Kids</a> from <a href="http://vimeo.com/rippleeffectsurf">Ripple Effect</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                <div class="video-player">
+                    <iframe src="http://player.vimeo.com/video/70013062?title=0&amp;byline=0&amp;portrait=0&amp;color=bbbcbd" width="300" height="169" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+                    <p style="text-align:center;"><a href="http://vimeo.com/70013062">The Sunnydale Kids</a> from <a href="http://vimeo.com/rippleeffectsurf">Ripple Effect</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                </div>
 
                 <img src="images/side2.jpg" alt="Big Dog Surf Camp" id="contentPhoto" style="margin-top:0;" />
-                <span class="small right" style="margin: -20px 24px 0 0">Coach Robin, Coach Jay, Coach Big Dog, & Coach Deezle</span>
-                <span class="banner3 right" style="margin-right:24px;"><a href="http://brandhabit.typepad.com/brandhabit/2008/08/surf-lessons.html" target="_blank">Check out a review of Big Dog Surf Camp &rarr;</a></span>
-                <span class="banner3 right" style="margin-right:24px;"><a href="https://vimeo.com/bigdogsurfcamp" target="_blank">Also check out our videos on Vimeo &rarr;</a></span>
+                <div class="small right" style="margin: -20px 24px 0 0">Coach Robin, Coach Jay, Coach Big Dog, & Coach Deezle</div>
+                <div class="banner3 right" style="margin-right:24px;"><a href="http://brandhabit.typepad.com/brandhabit/2008/08/surf-lessons.html" target="_blank">Check out a review of Big Dog Surf Camp &rarr;</a></div>
+                <div class="banner3 right" style="margin-right:24px;"><a href="https://www.instagram.com/bigdogsurfcamp/" target="_blank">Follow us on Instagram &rarr;</a></div>
 
             </div>
 

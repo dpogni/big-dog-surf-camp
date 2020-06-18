@@ -31,17 +31,14 @@
 
             <p>Summer around the bay area doesn't always mean sunny weather. In case the fog rolls in, make sure to pack some warm dry clothes: hooded sweatshirt, pants, beanie. We will be surfing different beaches, which means there might not always be a place to buy food so a packed lunch will be the best option. We will provide the boards and wetsuits for each camper but nothings better than your own wettie and stick, so bring 'em if you got 'em. Ice cream stops have been known to happen so bringing a little cash won't hurt. Wearing wetsuit booties is a preference. If booties are preferred by the camper, then you will want to have Nate at the Proof Lab set you up with a pair. Just say the Big Dog sent you. Sunscreen will be available, but it doesn't hurt to lather up your little grommet in the morning just to be sure.</p>
 
-            <center><strong>Quick Check List</strong></center>
-
-            <ul class="checklist ul">
+            <h3>Quick Check List</h3>
+            <ul class="checklist">
                 <li>Packed Lunch</li>
                 <li>Warm Clothing</li>
                 <li>Sunscreen</li>
                 <li>Water Bottle</li>
             </ul>
-
         </div>
-
     </div>
 
     <div id="footer">

@@ -30,16 +30,18 @@
                     Please print and fill out the forms attached. Follow the directions and send a check and both filled out pages to the address shown.</p>
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em> Feel free to call or email with any further question and we’ll see you soon!</p>
 
-                <p><span class="banner"><strong>Weekly camps are $600 and day of drop-ins are $150 if available.</strong></span></p>
+                <p><span class="banner">Weekly camps are $600 and day of drop-ins are $150 if available.</span></p>
+                <p class="clear"> </p>
+                <p class="banner">Per CDC guidelines, <u>campers must be signed up for 3 consecutive weeks</u>. Campers can attend just 2 if they quarantine the 3rd week.</p>
 
                 <br class="clear" /><br />
 
                 <ul id="pdfList">
                     <li>
-                        <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="download" />Waiver</a>
+                        <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="Download Waiver" />Waiver</a>
                     </li>
                     <li>
-                        <a href='/pdfs/RegForm2020.pdf'><img src='/images/pdf_icon.png' alt="download" />2020 Registration Form</a></strong>
+                        <a href='/pdfs/RegForm2020.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />2020 Registration Form</a>
                     </li>
                 </ul>
 

@@ -22,8 +22,8 @@ hr {
   clear: both;
   float: none;
   width: 100%;
-  height: .1em;
-  margin: 0 0 1.45em;
+  height: 1px;
+  margin: 1.5em 0;
   border: none;
 }
 
@@ -32,6 +32,13 @@ hr.space {
   color: #fff;
 }
 
+.video-player {
+  margin-bottom: 20px;
+}
+
+.video-player p {
+  margin-top: 5px;
+}
 
 /* Clearing floats without extra markup
    Based on How To Clear Floats Without Structural Markup by PiE
@@ -88,6 +95,7 @@ h3 {
   margin-bottom: 9px;
 }
 
+
 ul a {
   float: left;
 }
@@ -118,10 +126,10 @@ a:visited {
 .banner,
 .banner2,
 .banner3 {
+  margin-top: 1.5em;
   background: #ff9;
   clear: both;
   display: block;
-  float: left;
   padding: 9px;
 }
 
@@ -138,9 +146,8 @@ a:visited {
   font-weight: 400;
 }
 
-.checklist.ul {
-  line-height: 1.3em;
-  font-size: 1.7em;
+.checklist {
+  font-size: 1.2em;
   list-style: circle;
   margin: 10px 20px 30px;
   padding: 0;

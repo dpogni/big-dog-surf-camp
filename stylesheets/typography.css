@@ -24,8 +24,18 @@ h3,
 h4,
 h5,
 h6 {
+  margin-top: 1.5em;
   font-weight: normal;
   color: #111;
+}
+
+h1:first-of-type,
+h2:first-of-type,
+h3:first-of-type,
+h4:first-of-type,
+h5:first-of-type,
+h6:first-of-type {
+  margin-top: 0;
 }
 
 h1 {
@@ -77,7 +87,15 @@ h6 img {
 -------------------------------------------------------------- */
 
 p {
-  margin: 0 0 1.5em;
+  margin-top: 1.5em;
+}
+
+p:first-child {
+  margin-top: 0;
+}
+
+p+img {
+  margin-top: 1.5em;
 }
 
 p img {
