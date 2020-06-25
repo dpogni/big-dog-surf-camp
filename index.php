@@ -43,22 +43,22 @@
 
                 <hr />
 
-                <h3>Summer 2020 dates</h3>
+                <h3>Summer 2020 (sold out)</h3>
 
                 <ul class="info ul">
-                    <li>June 8 — 12</li>
+                    <li><del>June 8 — 12</del> (sold out)</li>
                     <li><del>June 15 — 19</del> (sold out)</li>
                     <li><del>June 22 — 26</del> (sold out)</li>
                     <li><del>June 29 – July 3</del> (sold out)</li>
                     <li><del>July 6 — 10</del> (sold out)</li>
                     <li><del>July 13 — 17</del> (sold out)</li>
                     <li><del>July 20 — 24</del> (sold out)</li>
-                    <li>July 27 — 31</li>
-                    <li>Aug. 3 — 7</li>
-                    <li>Aug. 10 — 14</li>
-                    <li>Aug. 17 — 21</li>
-                    <li>Aug. 24 — 28</li>
-                    <li>Aug. 31 — Sept. 4</li>
+                    <li><del>July 27 — 31</del> (sold out)</li>
+                    <li><del>Aug. 3 — 7</del> (sold out)</li>
+                    <li><del>Aug. 10 — 14</del> (sold out)</li>
+                    <li><del>Aug. 17 — 21</del> (sold out)</li>
+                    <li><del>Aug. 24 — 28</del> (sold out)</li>
+                    <li><del>Aug. 31 — Sept. 4</del> (sold out)</li>
                 </ul>
                 <!-- 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span> -->
             </div>
@@ -67,37 +67,16 @@
                     <iframe src="http://player.vimeo.com/video/70013062?title=0&amp;byline=0&amp;portrait=0&amp;color=bbbcbd" width="300" height="169" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
                     <p style="text-align:center;"><a href="http://vimeo.com/70013062">The Sunnydale Kids</a> from <a href="http://vimeo.com/rippleeffectsurf">Ripple Effect</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
                 </div>
-
-                <img src="images/side2.jpg" alt="Big Dog Surf Camp" id="contentPhoto" style="margin-top:0;" />
-                <div class="small right" style="margin: -20px 24px 0 0">Coach Robin, Coach Jay, Coach Big Dog, & Coach Deezle</div>
+                <img src="images/coaches.jpg" alt="Big Dog Surf Camp" id="contentPhoto" style="margin:0;width:300px;height:auto;display:block;" />
+                <div class="small">Our coaches</div>
                 <div class="banner3 right" style="margin-right:24px;"><a href="http://brandhabit.typepad.com/brandhabit/2008/08/surf-lessons.html" target="_blank">Check out a review of Big Dog Surf Camp &rarr;</a></div>
                 <div class="banner3 right" style="margin-right:24px;"><a href="https://www.instagram.com/bigdogsurfcamp/" target="_blank">Follow us on Instagram &rarr;</a></div>
-
             </div>
-
         </div>
     </div>
 
-    <div id="footer">
-        <span>&copy; Big Dog Surf Camp</span>&nbsp;|&nbsp;
-        <a href="mailto:bigdogsurfcamp@gmail.com" target="_blank">bigdogsurfcamp@gmail.com</a>&nbsp;|&nbsp;
-        Phone: (415) 518-3805&nbsp;|&nbsp;
-        <a href='http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=&daddr=PROOF+LAB&sll=40.979898,-105.556641&sspn=33.964475,58.974609&ie=UTF8&z=16'>
-            Get Directions
-        </a>
+    <?php include 'includes/footer.html' ?>
 
-
-    </div>
-    <!--<div class="madeby">created by <a href="http://www.deanpogni.com" target="_blank">Dean Pogni</div>-->
-
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-        var pageTracker = _gat._getTracker("UA-4353674-1");
-        pageTracker._trackPageview();
-    </script>
 </body>
 
 </html>

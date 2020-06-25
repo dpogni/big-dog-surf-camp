@@ -51,25 +51,10 @@
         </div>
     </div>
 
-    <div id="footer">
-        <span>&copy; Big Dog Surf Camp</span>&nbsp;|&nbsp;
-        <a href="mailto:bigdogsurfcamp@gmail.com" target="_blank">bigdogsurfcamp@gmail.com</a>&nbsp;|&nbsp;
-        Phone: (415) 518-3805&nbsp;|&nbsp;
-        <a href='http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=&daddr=PROOF+LAB&sll=40.979898,-105.556641&sspn=33.964475,58.974609&ie=UTF8&z=16'>
-            Get Directions
-        </a>
+    <?php include '../includes/footer.html' ?>
 
 
-    </div>
 
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-    <script type="text/javascript">
-        var pageTracker = _gat._getTracker("UA-4353674-1");
-        pageTracker._trackPageview();
-    </script>
 </body>
 
 </html>
