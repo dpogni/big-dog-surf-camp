@@ -21,7 +21,7 @@
 <body>
     <?php include '../includes/header.html' ?>
     <div class="container">
-        <mai1 class="maincontent columns">
+        <main class="maincontent columns">
             <section class="col--left">
                 <h3>Private Lessons &amp; Parties</h3>
                 <p>
@@ -44,7 +44,7 @@
                     <img src="/images/3268497088_8df3bafa96.jpg" />
                 </figure>
             </section>
-        </mai1>
+        </main>
     </div>
 
     <?php include '../includes/footer.html' ?>
