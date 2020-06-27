@@ -15,27 +15,21 @@
     <meta name="Revisit-after" content="7 Day">
     <title>Big Dog Surf Camp - Sign Up</title>
     <link rel="stylesheet" href="/stylesheets/default.css" media="screen" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
 
 <body id="signup">
-
     <?php include '../includes/header.html' ?>
-
-    <div class="thecontainer">
-        <div class="maincontent clearfix">
-
-            <div style="width:318px;float:left;">
+    <section class="container">
+        <main class="maincontent columns">
+            <section class="col--left">
                 <h3>Sign Up</h3>
                 <p>
                     Please print and fill out the forms attached. Follow the directions and send a check and both filled out pages to the address shown.</p>
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em> Feel free to call or email with any further question and we’ll see you soon!</p>
-
                 <p><span class="banner">Weekly camps are $600 and day of drop-ins are $150 if available.</span></p>
                 <p class="clear"> </p>
                 <p class="banner">Per CDC guidelines, <u>campers must be signed up for 3 consecutive weeks</u>. Campers can attend just 2 if they quarantine the 3rd week.</p>
-
-                <br class="clear" /><br />
-
                 <!-- <ul id="pdfList">
                     <li>
                         <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="Download Waiver" />Waiver</a>
@@ -44,20 +38,17 @@
                         <a href='/pdfs/RegForm2020.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />2020 Registration Form</a>
                     </li>
                 </ul> -->
+            </section>
+            <section class="col--right">
+                <figure>
+                    <img src="/images/side3.jpg" alt="Big Dog Surf Camp" id="contentPhoto" />
+                    <figcaption>Big Dog Surf Camp | Marin, CA & North Bay Area</figcaption>
+                </figure>
+            </section>
 
-            </div>
-
-            <div style="width: 300px; float: right;">
-                <img src="/images/side3.jpg" alt="Big Dog Surf Camp" id="contentPhoto" />
-                <span class="small right" style="margin-right: 24px;">Big Dog Surf Camp | Marin, CA & North Bay Area</span>
-            </div>
-
-        </div>
-    </div>
-
+        </main>
+    </section>
     <?php include '../includes/footer.html' ?>
-
-
 </body>
 
 </html>

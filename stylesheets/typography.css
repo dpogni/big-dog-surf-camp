@@ -8,10 +8,10 @@
 /* Default font settings.
    The font-size percentage is of 16px. (0.75 * 16px = 12px) */
 body {
-  font-size: 75%;
   color: #222;
-  background: #fff;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: white;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6em;
 }
 
 
@@ -27,6 +27,8 @@ h6 {
   margin-top: 1.5em;
   font-weight: normal;
   color: #111;
+  margin-bottom: 0;
+  line-height: 1.2;
 }
 
 h1:first-of-type,
@@ -52,20 +54,17 @@ h2 {
 h3 {
   font-size: 1.5em;
   line-height: 1;
-  margin-bottom: 1em;
 }
 
 h4 {
   font-size: 1.2em;
   line-height: 1.25;
-  margin-bottom: 1.25em;
   height: 1.25em;
 }
 
 h5 {
   font-size: 1em;
   font-weight: bold;
-  margin-bottom: 1.5em;
 }
 
 h6 {
@@ -174,15 +173,17 @@ tt {
 /* Lists
 -------------------------------------------------------------- */
 
+ul,
+ol {
+  margin: 1.5em;
+}
+
 li ul,
 li ol {
   margin: 0 1.5em;
 }
 
-ul,
-ol {
-  margin: 0 1.5em 1.5em 1.5em;
-}
+
 
 ul {
   list-style-type: disc;

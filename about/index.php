@@ -15,16 +15,17 @@
     <meta name="Revisit-after" content="7 Day">
     <title>Big Dog Surf Camp - About the Big Dog</title>
     <link rel="stylesheet" href="/stylesheets/default.css" media="screen" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
     <?php include '../includes/header.html' ?>
 
-    <div class="thecontainer">
-        <div class="maincontent clearfix">
-
-            <div style="width:318px;float:left;">
+    <section class="container">
+        <main class="maincontent columns">
+            <section class="col--left">
                 <h3>About The Big Dog</h3>
                 <p>
                     Ian Glover aka The Big Dog was born and raised in Northern California. He started surfing at age 15 to keep up with his friends at Redwood High School. He became hooked on surfing instantly. It soon drove every decision he made and eventually led him around the world searching for the ultimate stoke.
@@ -37,20 +38,18 @@
                 </p>
                 <p>
                     Ian has run the surf camp for the past two years during the summers and gives individual lessons to people of every age and experience level. A compassionate and patient teacher, Ian is attuned to learners' ability, needs, fears and potential. </p>
-
-                <span class="qoute">"All you have to do is want it, and I will take care of the rest."</span>
-
-            </div>
-
-            <div style="width: 300px; float: right;">
-                <img src="/images/ian.jpg" alt="Big Dog Surf Camp" id="contentPhoto" />
-                <span class="small right" style="margin-right: 24px;">Ian Glover aka The Big Dog</span>
-            </div>
-
-        </div>
-
-
-    </div>
+                <p class="qoute">"All you have to do is want it, and I will take care of the rest."</p>
+            </section>
+            <section class="col--right">
+                <figure>
+                    <img src="/images/ian.jpg" alt="Big Dog Surf Camp" />
+                    <figcaption>
+                        Ian Glover aka The Big Dog
+                    </figcaption>
+                </figure>
+            </section>
+        </main>
+    </section>
     <?php include '../includes/footer.html' ?>
 
 

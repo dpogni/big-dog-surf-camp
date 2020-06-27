@@ -4,9 +4,13 @@
 /* TYPOGRAPHY */
 @import 'typography.css';
 
+body {
+  background: rgb(222, 240, 255);
+  background: linear-gradient(0deg, rgba(222, 240, 255, 1) 0%, rgba(122, 188, 249, 1) 100%);
+  margin: 0;
+  padding: 0;
+}
 
-/* Misc classes and elements
--------------------------------------------------------------- */
 
 /* Use a .box to create a padded box inside a column.  */
 .box {
@@ -19,8 +23,6 @@
 hr {
   background: #ddd;
   color: #ddd;
-  clear: both;
-  float: none;
   width: 100%;
   height: 1px;
   margin: 1.5em 0;
@@ -34,57 +36,62 @@ hr.space {
 
 .video-player {
   margin-bottom: 20px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .video-player p {
   margin-top: 5px;
+  font-size: .8rem;
 }
 
-/* Clearing floats without extra markup
-   Based on How To Clear Floats Without Structural Markup by PiE
-   [http://www.positioniseverything.net/easyclearing.html] */
-
-.clearfix:after,
-.container:after {
-  content: ".";
-  display: block;
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
   height: 0;
-  clear: both;
-  visibility: hidden;
+  overflow: hidden;
+  max-width: 100%;
 }
 
-.clearfix,
-.container {
-  display: inline-block;
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
-* html .clearfix,
-* html .container {
-  height: 1%;
+.header {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
 }
 
-.clearfix,
-.container {
+.header img {
   display: block;
+  width: 100%;
 }
 
-/* Regular clearing
-   apply to column that should drop below previous ones. */
-
-.clear {
-  clear: both;
+.header-banner {
+  background-color: #ff9494;
+  color: black;
 }
 
+.header-banner p {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.4;
+  font-size: 1rem;
+  text-align: center;
+  padding: 20px;
+}
 
 
 /* MAIN */
-body {
-  background: url(../images/main_bg.png) repeat-x top #DEF0FF;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-
 h1 {
   color: #d33872;
   margin-top: 10px;
@@ -95,14 +102,8 @@ h3 {
   margin-bottom: 9px;
 }
 
-
-ul a {
-  float: left;
-}
-
 ul {
   color: #666;
-  float: left;
 }
 
 .container {
@@ -110,6 +111,18 @@ ul {
   margin: 0 auto;
   text-align: left;
 }
+
+@media (min-width: 700px) {
+  .columns {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 60px
+  }
+}
+
+.col--left {}
+
+.col--right {}
 
 a,
 a:link,
@@ -123,14 +136,18 @@ a:visited {
   padding: 5px;
 }
 
+
 .banner,
 .banner2,
 .banner3 {
   margin-top: 1.5em;
   background: #ff9;
-  clear: both;
   display: block;
   padding: 9px;
+}
+
+.banner--red {
+  background-color: #ff9494;
 }
 
 .banner2 {
@@ -153,52 +170,54 @@ a:visited {
   padding: 0;
 }
 
-.clear {
-  clear: both;
+figure {
+  margin: 20px 0;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+figcaption {
+  margin-top: 10px;
+  font-size: .8em;
 }
 
 .info {
   color: #666;
-  float: left;
   margin: 0 auto;
   padding: 3px 10px;
   text-align: left;
 }
 
 .info.ul {
-  line-height: 1.6em;
-  font-size: 14px;
-  margin: 0 6px 10px 15px;
+  margin: 1rem 6px 10px 17px;
   padding: 0;
   width: 100%;
 }
 
+
+
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .maincontent {
-  margin: 0 auto;
-  padding: 30px 30px 40px;
-  width: 664px;
+  background: white;
+  padding: 30px 20px;
 }
 
-.madeby {
-  width: 700px;
-  padding-top: 10px;
-  margin: 0 auto;
-  text-align: right;
-  font-style: italic;
-  font-size: .9em;
-}
+@media (min-width: 700px) {
+  .maincontent {
+    padding: 30px 40px;
 
-.right {
-  float: right;
-  text-align: left;
-}
+  }
 
-.thecontainer {
-  background: #fff;
-  line-height: 1.6em;
-  margin: 0 auto;
-  text-align: left;
-  width: 700px;
 }
 
 .qoute {
@@ -214,17 +233,13 @@ a:visited {
 }
 
 #pdfList {
-  clear: both;
-  float: left;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
 #pdfList li {
-  clear: both;
   display: block;
-  float: left;
   margin-bottom: 9px;
 }
 
@@ -238,7 +253,6 @@ a:visited {
 }
 
 #pdfList li a img {
-  float: left;
   margin-right: 9px;
 }
 
@@ -247,30 +261,49 @@ a:visited {
   color: #000;
 }
 
-#contentPhoto {
-  float: right;
-  height: 350px;
-  margin: 20px 20px 20px 0;
-}
 
 #nav {
+  align-items: center;
   background: #f0f0f0;
   color: #aaa;
-  display: block;
+  display: flex;
   font-size: 1.2em;
   font-weight: 700;
+  justify-content: center;
+  list-style: none;
   margin: 0 auto;
-  padding: 18px 0;
-  width: 700px;
+  padding: 12px 0;
+  width: 100%;
+  flex-wrap: wrap;
+}
 
+#nav li {
+  align-items: center;
+  display: flex;
+  flex-shrink: 0;
+}
+
+#nav li:after {
+  content: "|";
+}
+
+#nav li:last-child:after {
+  content: '';
 }
 
 #nav a {
   color: #f63;
   font-weight: 700;
-  padding: 5px 9px;
-  text-transform: lowercase;
+  padding: 13px 8px;
   text-decoration: none;
+  text-transform: lowercase;
+}
+
+@media (min-width: 700px) {
+  #nav a {
+    padding: 13px;
+
+  }
 }
 
 #nav a:hover {
@@ -278,17 +311,17 @@ a:visited {
   text-decoration: none;
 }
 
-#footer {
+.footer {
+  align-items: center;
   background: #f0f0f0;
   color: #666;
-  display: block;
+  display: flex;
   font-size: 1em;
   font-weight: 400;
-  margin: 0 auto;
-  padding: 20px 0;
-  width: 700px;
+  justify-content: center;
+  padding: 30px 0;
 }
 
-#footer a {
+.footer a {
   color: #999;
 }
