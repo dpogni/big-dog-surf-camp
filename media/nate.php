@@ -14,6 +14,7 @@
     <meta name="Robots" content="INDEX,FOLLOW">
     <meta name="Revisit-after" content="7 Day">
     <title>Big Dog Surf Camp - What to Bring</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <link rel="stylesheet" href="http://www.bigdogsurfcamp.com/stylesheets/default.css" media="screen" />
 

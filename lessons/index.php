@@ -12,6 +12,8 @@
     <meta name="Distribution" content="Local">
     <meta name="Rating" content="General">
     <meta name="Robots" content="INDEX,FOLLOW">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <meta name="Revisit-after" content="7 Day">
     <title>Big Dog Surf Camp - Lessons & Parties</title>
     <link rel="stylesheet" href="/stylesheets/default.css" media="screen" />
