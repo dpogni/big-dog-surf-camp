@@ -34,7 +34,6 @@
                     <h3>Summer 2020 (sold out)</h3>
                     <div class="banner">
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
-                        <p>If you have any questions, please email us at <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a></p>
                     </div>
                     <ul class="info ul">
                         <li><del>June 8 — 12</del> (sold out)</li>
