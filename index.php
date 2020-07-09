@@ -31,16 +31,11 @@
                     <p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is perfect for any young eager kids living in Marin County and San Francisco. We will provide the boards &amp; wetsuits. Week long and single sessions are available. We will be surfing in Marin. Students must know how to swim and be ready to have a fun time.</p>
                     <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at <a href="https://goo.gl/maps/ECkKRZFcW9Q9DgN47" target="_blank">240 Shoreline Hwy, Mill Valley</a>, and will be shuttled to the beach. The camp runs from 9am to 4pm.</p>
                     <hr />
-                    <h3>Summer 2020 (sold out)</h3>
+                    <h3>Summer 2020</h3>
                     <div class="banner">
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
                     </div>
                     <ul class="info ul">
-                        <li><del>June 8 — 12</del> (sold out)</li>
-                        <li><del>June 15 — 19</del> (sold out)</li>
-                        <li><del>June 22 — 26</del> (sold out)</li>
-                        <li><del>June 29 – July 3</del> (sold out)</li>
-                        <li><del>July 6 — 10</del> (sold out)</li>
                         <li>July 13 — 17</li>
                         <li>July 20 — 24</li>
                         <li>July 27 — 31</li>
