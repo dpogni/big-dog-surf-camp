@@ -38,8 +38,6 @@
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
                     </div>
                     <ul class="info ul">
-                        <li>July 13 — 17</li>
-                        <li>July 20 — 24</li>
                         <li>July 27 — 31</li>
                         <li>Aug. 3 — 7</li>
                         <li>Aug. 10 — 14</li>
