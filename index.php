@@ -46,7 +46,7 @@
                         <li>Aug. 31 — Sept. 4</li>
                     </ul>
                     <div class="banner">
-                        <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a> or text us at <a href="tel:1-310-422-6161">(310) 422-6161</a>.</p>
+                        <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a>.</p>
                     </div>
                     <!-- 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span> -->
                 </div>
