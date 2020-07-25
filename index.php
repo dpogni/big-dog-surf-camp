@@ -33,11 +33,11 @@
                         The camp runs from 9am to 4pm.</p>
 
                     <hr />
-                    <h3>Summer 2020</h3>
+                    <h3>Summer 2020 - Sold Out</h3>
                     <div class="banner">
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
                     </div>
-                    <ul class="info ul">
+                    <!-- <ul class="info ul">
                         <li><del>July 27 — 31</del> (Sold out)</li>
                         <li><del>Aug. 3 — 7</del> (Sold out)</li>
                         <li><del>Aug. 10 — 14</del> (Sold out)</li>
@@ -47,7 +47,7 @@
                     </ul>
                     <div class="banner">
                         <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a>.</p>
-                    </div>
+                    </div> -->
                     <!-- 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span> -->
                 </div>
                 <div class="col--right">
