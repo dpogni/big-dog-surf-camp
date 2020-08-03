@@ -30,7 +30,7 @@
                     All ages &amp; all abilities welcome. All equipment provided and transportation from prooflab to beach available.
                 </p>
                 <p>
-                    $100 for a single about 3 hour session (drive time included, time is loosely figured, if your having a blast then we are staying longer)
+                    $150 for a single about 3 hour session (drive time included, time is loosely figured, if your having a blast then we are staying longer)
                 </p>
                 <p>
                     $75/person with a group of three or more *call for larger group or party info since prices can vary.
