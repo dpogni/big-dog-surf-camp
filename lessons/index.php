@@ -33,7 +33,7 @@
                     $150 for a single about 3 hour session (drive time included, time is loosely figured, if your having a blast then we are staying longer)
                 </p>
                 <p>
-                    $125/person with a group of three or more *call for larger group or party info since prices can vary.
+                    $125/person with a group of three or more.
                 </p>
                 <p>Please email <a href="mailto:bigdogsurfcamp@gmail.com" target="_blank">bigdogsurfcamp@gmail.com</a> for more information</p>
 
