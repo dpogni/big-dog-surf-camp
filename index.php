@@ -37,17 +37,17 @@
                     <div class="banner">
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
                     </div>
-                    <!-- <ul class="info ul">
-                        <li><del>July 27 — 31</del> (Sold out)</li>
+                    <ul class="info ul">
+                        <!-- <li><del>July 27 — 31</del> (Sold out)</li>
                         <li><del>Aug. 3 — 7</del> (Sold out)</li>
                         <li><del>Aug. 10 — 14</del> (Sold out)</li>
-                        <li>Aug. 17 — 21</li>
+                        <li>Aug. 17 — 21</li> -->
                         <li>Aug. 24 — 28</li>
                         <li>Aug. 31 — Sept. 4</li>
                     </ul>
                     <div class="banner">
                         <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a>.</p>
-                    </div> -->
+                    </div>
                     <!-- 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span> -->
                 </div>
                 <div class="col--right">
