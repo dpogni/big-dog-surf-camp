@@ -37,18 +37,18 @@
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
                     </div>
                     <ul class="info ul">
-                        <li>June 7 – 11</li>
-                        <li>June 14 – 18</li>
-                        <li>June 21 – 25</li>
-                        <li>June 28 – July 2</li>
-                        <li>July 5 – 9</li>
-                        <li>July 12 – 16</li>
-                        <li>July 19 – 23</li>
-                        <li>July 26 – 30</li>
-                        <li>Aug. 2 – 6</li>
-                        <li>Aug. 9 – 13</li>
-                        <li>Aug. 16 – 20</li>
-                        <li>Aug. 23 – 27</li>
+                        <li><strong>Week 1:</strong> June 7 – 11</li>
+                        <li><strong>Week 2:</strong> June 14 – 18</li>
+                        <li><strong>Week 3:</strong> June 21 – 25</li>
+                        <li><strong>Week 4:</strong> June 28 – July 2</li>
+                        <li><strong>Week 5:</strong> July 5 – 9</li>
+                        <li><strong>Week 6:</strong> July 12 – 16</li>
+                        <li><strong>Week 7:</strong> July 19 – 23</li>
+                        <li><strong>Week 8:</strong> July 26 – 30</li>
+                        <li><strong>Week 9:</strong> Aug. 2 – 6</li>
+                        <li><strong>Week 10:</strong> Aug. 9 – 13</li>
+                        <li><strong>Week 11:</strong> Aug. 16 – 20</li>
+                        <li><strong>Week 12:</strong> Aug. 23 – 27</li>
                     </ul>
                     <div class="banner">
                         <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a>.</p>
