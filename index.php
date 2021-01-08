@@ -31,24 +31,28 @@
                     <p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is perfect for any young eager kids living in Marin County and San Francisco. We will provide the boards &amp; wetsuits. Week long and single sessions are available. We will be surfing in Marin. Students must know how to swim and be ready to have a fun time.</p>
                     <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at <a href="https://goo.gl/maps/ECkKRZFcW9Q9DgN47" target="_blank">240 Shoreline Hwy, Mill Valley</a>, and will be shuttled to the beach. All campers must wear masks in the van, at dropoff, and at pickup.
                         The camp runs from 9am to 4pm.</p>
-
                     <hr />
-                    <h3>Summer 2020 - Sold Out</h3>
+                    <h3>Summer 2021</h3>
                     <div class="banner">
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
                     </div>
                     <ul class="info ul">
-                        <!-- <li><del>July 27 — 31</del> (Sold out)</li>
-                        <li><del>Aug. 3 — 7</del> (Sold out)</li>
-                        <li><del>Aug. 10 — 14</del> (Sold out)</li>
-                        <li>Aug. 17 — 21</li> -->
-                        <li>Aug. 24 — 28</li>
-                        <li>Aug. 31 — Sept. 4</li>
+                        <li>June 7 – 11</li>
+                        <li>June 14 – 18</li>
+                        <li>June 21 – 25</li>
+                        <li>June 28 – July 2</li>
+                        <li>July 5 – 9</li>
+                        <li>July 12 – 16</li>
+                        <li>July 19 – 23</li>
+                        <li>July 26 – 30</li>
+                        <li>Aug. 2 – 6</li>
+                        <li>Aug. 9 – 13</li>
+                        <li>Aug. 16 – 20</li>
+                        <li>Aug. 23 – 27</li>
                     </ul>
                     <div class="banner">
                         <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a>.</p>
                     </div>
-                    <!-- 	<span class="banner"><a href="lessons.html" target="_parent">Ask about our private lessons &amp; parties.</a></span> -->
                 </div>
                 <div class="col--right">
                     <section class="video-player">
