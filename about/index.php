@@ -27,7 +27,7 @@
     <section class="container">
         <main class="maincontent columns">
             <section class="col--left">
-                <h3>About The Big Dog</h3>
+                <h2>About The Big Dog</h2>
                 <p>
                     Ian Glover aka The Big Dog was born and raised in Northern California. He started surfing at age 15 to keep up with his friends at Redwood High School. He became hooked on surfing instantly. It soon drove every decision he made and eventually led him around the world searching for the ultimate stoke.
                 </p>

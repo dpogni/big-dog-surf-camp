@@ -31,7 +31,7 @@
 
         <div class="maincontent">
 
-            <h3>Big Dog Media</h3>
+            <h2>Big Dog Media</h2>
             <hr />
 
             <p><a href="/media/nate.php">June 19th, 2008</a> - Shot by Nate McCarthy</p>

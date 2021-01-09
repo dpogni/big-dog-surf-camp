@@ -14,7 +14,7 @@
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="Revisit-after" content="7 Day">
-    <title>Big Dog Surf Camp - <?php echo date("Y"); ?></title>
+    <title>Big Dog Surf Camp 🏄‍♀️ <?php echo date("Y"); ?></title>
     <link rel="stylesheet" href="stylesheets/default.css" media="screen" />
 
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -23,19 +23,20 @@
 <body>
 
     <?php include 'includes/header.html' ?>
-    <div class="container">
+    <section class="container">
         <main class="maincontent clearfix">
             <section class="columns">
-                <div class="col--left">
-                    <h3>🏄‍♀️🏄‍♂️ Beginner &amp; Intermediate Surf&nbsp;Lessons <br>Ages 5 and Up</h3>
-                    <p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is perfect for any young eager kids living in Marin County and San Francisco. We will provide the boards &amp; wetsuits. Week long and single sessions are available. We will be surfing in Marin. Students must know how to swim and be ready to have a fun time.</p>
+                <section class="col--left">
+                    <h2> Beginner &amp; Intermediate Surf&nbsp;Lessons</h2>
+                    <h3>🏄‍♀️ Ages 7 and Up 🏄‍♂️</h3>
+                    <p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is accommodating for any young eager kids living in Marin County and San Francisco. We will provide the boards & wetsuits. Week long and single sessions are available. We will be surfing at one of many beautiful beaches located in Marin County. Students must know how to swim and be ready to have a fun time.</p>
                     <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at <a href="https://goo.gl/maps/ECkKRZFcW9Q9DgN47" target="_blank">240 Shoreline Hwy, Mill Valley</a>, and will be shuttled to the beach. All campers must wear masks in the van, at dropoff, and at pickup.
                         The camp runs from 9am to 4pm.</p>
                     <hr />
-                    <h3>Summer 2021</h3>
-                    <div class="banner">
+                    <h2>Summer 2021</h2>
+                    <section class="banner">
                         <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
-                    </div>
+                    </section>
                     <ul class="info ul">
                         <li><strong>Week 1:</strong> June 7 – 11</li>
                         <li><strong>Week 2:</strong> June 14 – 18</li>
@@ -50,11 +51,11 @@
                         <li><strong>Week 11:</strong> Aug. 16 – 20</li>
                         <li><strong>Week 12:</strong> Aug. 23 – 27</li>
                     </ul>
-                    <div class="banner">
+                    <section class="banner">
                         <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a>.</p>
-                    </div>
-                </div>
-                <div class="col--right">
+                    </section>
+                </section>
+                <section class="col--right">
                     <section class="video-player">
                         <div class='embed-container'><iframe src='https://player.vimeo.com/video/98771622' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
                         <p style="text-align:center;"><a href="http://vimeo.com/98771622">Big Dog Surf Camp</a> from <a href="http://vimeo.com/user5591658">Perry Gershkow</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -68,10 +69,10 @@
                         <figcaption class="small">Our coaches</figcaption>
                     </figure>
                     <div class="banner3"><a href="https://www.instagram.com/bigdogsurfcamp/" target="_blank">Follow us on Instagram &rarr;</a></div>
-                </div>
+                </section>
             </section>
         </main>
-    </div>
+    </section>
 
     <?php include 'includes/footer.html' ?>
 

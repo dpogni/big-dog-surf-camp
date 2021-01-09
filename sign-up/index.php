@@ -25,7 +25,7 @@
     <section class="container">
         <main class="maincontent columns">
             <section class="col--left">
-                <h3>Sign Up</h3>
+                <h2>Sign Up</h2>
                 <p>
                     Please print and fill out the forms attached. Follow the directions and send a check and both filled out pages to the address shown.</p>
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em> Feel free to call or email with any further question and we’ll see you soon!</p>

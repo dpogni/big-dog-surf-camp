@@ -31,7 +31,7 @@
         <div class="maincontent">
 
 
-            <h3>June 19th, 2008. Photos by Nate McCarthy</h3>
+            <h2>June 19th, 2008. Photos by Nate McCarthy</h2>
             <hr />
 
 
@@ -45,7 +45,7 @@
             </script>
             <p>June 19th, 2008. Photos by Nate McCarthy</p>
 
-            <h3><a href="/media">Back to Media Home</a></h3>
+            <h2><a href="/media">Back to Media Home</a></h2>
 
         </div>
     </div>

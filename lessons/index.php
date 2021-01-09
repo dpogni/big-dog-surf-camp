@@ -25,7 +25,7 @@
     <div class="container">
         <main class="maincontent columns">
             <section class="col--left">
-                <h3>Private Lessons &amp; Parties</h3>
+                <h2>Private Lessons &amp; Parties</h2>
                 <p>
                     All ages &amp; all abilities welcome. All equipment provided and transportation from prooflab to beach available.
                 </p>
