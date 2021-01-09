@@ -31,12 +31,14 @@
                 <p><span class="banner">Weekly camps are $600 and day of drop-ins are $150 if available.</span></p>
                 <p class="clear"> </p>
                 <p class="banner">Per CDC guidelines, <u>campers must be signed up for 3 consecutive weeks</u>. Campers can attend just 2 if they quarantine the 3rd week.</p>
-                <ul id="pdfList">
+
+                <h3 style="margin-top: 30px;">Registration Downloads</h3>
+                <ul class="pdfList">
                     <li>
-                        <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="Download Waiver" />Waiver</a>
+                        <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="Download Waiver" />Download Waiver</a>
                     </li>
                     <li>
-                        <a href='/pdfs/RegForm2021.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />2021 Registration Form</a>
+                        <a href='/pdfs/RegForm2021.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2021 Registration Form</a>
                     </li>
                 </ul>
             </section>

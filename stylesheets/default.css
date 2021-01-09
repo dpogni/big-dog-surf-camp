@@ -120,10 +120,6 @@ ul {
   }
 }
 
-.col--left {}
-
-.col--right {}
-
 a,
 a:link,
 a:visited {
@@ -232,31 +228,32 @@ figcaption {
   font-size: 15px;
 }
 
-#pdfList {
+.pdfList {
   list-style: none;
-  margin: 0;
+  margin: 20px 0 0;
   padding: 0;
 }
 
-#pdfList li {
+.pdfList li {
   display: block;
   margin-bottom: 9px;
 }
 
-#pdfList li a {
+.pdfList li a {
   border: 1px solid #eee;
-  color: green;
+  color: red;
+  display: inline-flex;
   line-height: 30px;
   padding: 3px;
   text-decoration: none;
-  width: 180px;
+  width: 300px;
 }
 
-#pdfList li a img {
+.pdfList li a img {
   margin-right: 9px;
 }
 
-#pdfList li a:hover {
+.pdfList li a:hover {
   background: #f0f0f0;
   color: #000;
 }
@@ -267,6 +264,7 @@ figcaption {
   background: #f0f0f0;
   color: #aaa;
   display: flex;
+  flex-wrap: wrap;
   font-size: 1.2em;
   font-weight: 700;
   justify-content: center;
@@ -274,7 +272,6 @@ figcaption {
   margin: 0 auto;
   padding: 12px 0;
   width: 100%;
-  flex-wrap: wrap;
 }
 
 #nav li {
