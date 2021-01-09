@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="keywords" content="Bay Area Surf Camp, Marin, Stinson Beach, Bolinas, Proof Lab, Surf, Camp, Big Dog, Ian Glover">
+    <meta name="keywords" content="Bay Area Surf Camp, Marin, Stinson Beach, Proof Lab, Surf, Camp, Big Dog, Ian Glover">
     <meta name="description" content="Northern Califoria Surf Camp">
     <meta name="copyright" content="(c) Big Dog!">
     <meta name="author" content="deanpogni.com	">
@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="/stylesheets/default.css" media="screen" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
 </head>
 
 <body id="signup">
@@ -32,14 +31,14 @@
                 <p><span class="banner">Weekly camps are $600 and day of drop-ins are $150 if available.</span></p>
                 <p class="clear"> </p>
                 <p class="banner">Per CDC guidelines, <u>campers must be signed up for 3 consecutive weeks</u>. Campers can attend just 2 if they quarantine the 3rd week.</p>
-                <!-- <ul id="pdfList">
+                <ul id="pdfList">
                     <li>
                         <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="Download Waiver" />Waiver</a>
                     </li>
                     <li>
-                        <a href='/pdfs/RegForm2020.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />2020 Registration Form</a>
+                        <a href='/pdfs/RegForm2021.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />2021 Registration Form</a>
                     </li>
-                </ul> -->
+                </ul>
             </section>
             <section class="col--right">
                 <figure>

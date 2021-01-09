@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="keywords" content="Bay Area Surf Camp, Marin, Stinson Beach, Bolinas, Proof Lab, Surf, Camp, Big Dog, Ian Glover">
+    <meta name="keywords" content="Bay Area Surf Camp, Marin, Stinson Beach, Mill Valley, Proof Lab, Surf, Camp, Big Dog, Ian Glover">
     <meta name="description" content="Northern Califoria Surf Camp">
     <meta name="copyright" content="(c) Big Dog!">
     <meta name="author" content="deanpogni.com	">
