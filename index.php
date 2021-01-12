@@ -29,7 +29,7 @@
                 <section class="col--left">
                     <h2> Beginner &amp; Intermediate Surf&nbsp;Lessons</h2>
                     <h3>🏄‍♀️ Ages 7 and Up 🏄‍♂️</h3>
-                    <p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is accommodating for any young eager kids living in Marin County and San Francisco. We will provide the boards & wetsuits. Week long and single sessions are available. We will be surfing at one of many beautiful beaches located in Marin County. Students must know how to swim and be ready to have a fun time.</p>
+                    <p>Big Dog Surf Camp is the perfect summer experience for surfers or surfers-to-be. The summer camp is accommodating for any young eager kids living in Marin County and San Francisco. We will provide the boards and wetsuits. We will be surfing at one of many beautiful beaches located in Marin County. Students must know how to swim and be ready to have a fun time.</p>
                     <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at <a href="https://goo.gl/maps/ECkKRZFcW9Q9DgN47" target="_blank">240 Shoreline Hwy, Mill Valley</a>, and will be shuttled to the beach. All campers must wear masks in the van, at dropoff, and at pickup.
                         The camp runs from 9am to 4pm.</p>
                     <hr />
