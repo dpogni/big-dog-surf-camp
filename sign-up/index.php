@@ -25,13 +25,10 @@
         <main class="maincontent columns">
             <section class="col--left">
                 <h2>Sign Up</h2>
-                <p>
-                    Please print and fill out the forms attached. Follow the directions and send a check and both filled out pages to the address shown.</p>
-                <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em> Feel free to call or email with any further question and we’ll see you soon!</p>
-                <p><span class="banner">Weekly camps are $600 and day of drop-ins are $150 if available.</span></p>
-                <p class="clear"> </p>
-                <p class="banner">Per CDC guidelines, <u>campers must be signed up for 3 consecutive weeks</u>. Campers can attend just 2 if they quarantine the 3rd week.</p>
-
+                <p>To sign up, please follow the directions in the registration form. Send a check with completed registration form and waiver to the address&nbsp;listed.</p>
+                <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em></p>
+                <p>Feel free to email with any questions. We’ll see you soon!</p>
+                <p><span class="banner">Weekly camps are $1,200/session.</span></p>
                 <h3 style="margin-top: 30px;">Registration Downloads</h3>
                 <ul class="pdfList">
                     <li>
@@ -48,7 +45,6 @@
                     <figcaption>Big Dog Surf Camp | Marin, CA & North Bay Area</figcaption>
                 </figure>
             </section>
-
         </main>
     </section>
     <?php include '../includes/footer.html' ?>

@@ -33,26 +33,21 @@
                     <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at <a href="https://goo.gl/maps/ECkKRZFcW9Q9DgN47" target="_blank">240 Shoreline Hwy, Mill Valley</a>, and will be shuttled to the beach. All campers must wear masks in the van, at dropoff, and at pickup.
                         The camp runs from 9am to 4pm.</p>
                     <hr />
-                    <h2>Summer 2021</h2>
+                    <h2>Summer 2021 BDSC Dates:</h2>
                     <section class="banner">
-                        <p>Per CDC guidelines, campers must be signed up for 3 consecutive weeks. Campers may also attend just 2 consecutive sessions if they self-quarantine the 3rd week.</p>
+                        <p>Sessions may be modified due to changing CDC and Marin County guidelines.</p>
                     </section>
                     <ul class="info ul">
-                        <li><strong>Week 1:</strong> June 7 – 11</li>
-                        <li><strong>Week 2:</strong> June 14 – 18</li>
-                        <li><strong>Week 3:</strong> June 21 – 25</li>
-                        <li><strong>Week 4:</strong> June 28 – July 2</li>
-                        <li><strong>Week 5:</strong> July 5 – 9</li>
-                        <li><strong>Week 6:</strong> July 12 – 16</li>
-                        <li><strong>Week 7:</strong> July 19 – 23</li>
-                        <li><strong>Week 8:</strong> July 26 – 30</li>
-                        <li><strong>Week 9:</strong> Aug. 2 – 6</li>
-                        <li><strong>Week 10:</strong> Aug. 9 – 13</li>
-                        <li><strong>Week 11:</strong> Aug. 16 – 20</li>
-                        <li><strong>Week 12:</strong> Aug. 23 – 27</li>
+                        <li><strong>Session 1:</strong> June 7 – 10 & June 14 – 17</li>
+                        <li><strong>Session 2:</strong> June 21 – 24 & June 28 – July 1</li>
+                        <li><strong>Session 3:</strong> July 5 – 8 & July 12 – 15</li>
+                        <li><strong>Session 4:</strong> July 19 – 22 & July 26 – 29</li>
+                        <li><strong>Session 5:</strong> Aug. 2 – 5 & Aug. 9 – 12</li>
+                        <li><strong>Session 6:</strong> Aug. 16 – 19 & Aug. 23 – 26</li>
                     </ul>
+                    <p><sup>*</sup>Camp runs from Monday - Thursday 9:00am - 4:00pm<sup>*</sup></p>
                     <section class="banner">
-                        <p>To sign up, please email <a href="mailto:bigdogsurfcamp@gmail.com">bigdogsurfcamp@gmail.com</a>.</p>
+                        <p>Sign up <a href="/sign-up/">now</a>.</p>
                     </section>
                 </section>
                 <section class="col--right">
