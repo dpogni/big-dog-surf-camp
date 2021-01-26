@@ -40,7 +40,7 @@
                     <ul class="info ul">
                         <li><strong>Session 1:</strong> June 7 – 10 & June 14 – 17</li>
                         <li><strong>Session 2:</strong> June 21 – 24 & June 28 – July 1</li>
-                        <li><strong>Session 3:</strong> July 5 – 8 & July 12 – 15</li>
+                        <li><strong>Session 3:</strong> July 6 – 9 & July 12 – 15</li>
                         <li><strong>Session 4:</strong> July 19 – 22 & July 26 – 29</li>
                         <li><strong>Session 5:</strong> Aug. 2 – 5 & Aug. 9 – 12</li>
                         <li><strong>Session 6:</strong> Aug. 16 – 19 & Aug. 23 – 26</li>
