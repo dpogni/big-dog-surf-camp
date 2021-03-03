@@ -45,7 +45,8 @@
                         <li><strong>Session 5:</strong> Aug. 2 – 5 & Aug. 9 – 12</li>
                         <li><strong>Session 6:</strong> Aug. 16 – 19 & Aug. 23 – 26</li>
                     </ul>
-                    <p><sup>*</sup>Camp runs from Monday - Thursday 9:00am - 4:00pm<sup>*</sup></p>
+                    <p>Camp runs from Monday - Thursday 9:00am - 4:00pm</p>
+                    <p>Please MAIL completed forms with a $200 deposit per session. Deposit is NON-REFUNDABLE but TRANSFERABLE to other sessions of same season.</p>
                     <section class="banner">
                         <p>Sign up <a href="/sign-up/">now</a>.</p>
                     </section>

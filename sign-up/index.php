@@ -25,7 +25,8 @@
         <main class="maincontent columns">
             <section class="col--left">
                 <h2>Sign Up</h2>
-                <p>To sign up, please follow the directions in the registration form. Send a check with completed registration form and waiver to the address&nbsp;listed.</p>
+                <p>To sign up, please follow the directions in the registration form.</p>
+                <p>Please MAIL completed forms with a $200 deposit per session. Deposit is NON-REFUNDABLE but TRANSFERABLE to other sessions of same season.</p>
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em></p>
                 <p>Feel free to email with any questions. We’ll see you soon!</p>
                 <p><span class="banner">Weekly camps are $1,200/session.</span></p>
