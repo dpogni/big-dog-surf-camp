@@ -38,12 +38,12 @@
                         <p>Sessions may be modified due to changing CDC and Marin County guidelines.</p>
                     </section>
                     <ul class="info ul">
-                        <li><strong>Session 1:</strong> June 7 – 10 & June 14 – 17</li>
-                        <li><strong>Session 2:</strong> June 21 – 24 & June 28 – July 1</li>
-                        <li><strong>Session 3:</strong> July 6 – 9 & July 12 – 15</li>
-                        <li><strong>Session 4:</strong> July 19 – 22 & July 26 – 29</li>
-                        <li><strong>Session 5:</strong> Aug. 2 – 5 & Aug. 9 – 12</li>
-                        <li><strong>Session 6:</strong> Aug. 16 – 19 & Aug. 23 – 26</li>
+                        <li><strong>Session 1:</strong> June 7 – 10 &amp; June 14 – 17</li>
+                        <li><del><strong>Session 2:</strong> June 21 – 24 &amp; June 28 – July 1</del> (sold out)</li>
+                        <li><del><strong>Session 3:</strong> July 6 – 9 &amp; July 12 – 15</del> (sold out)</li>
+                        <li><del><strong>Session 4:</strong> July 19 – 22 &amp; July 26 – 29</del> (sold out)</li>
+                        <li><strong>Session 5:</strong> Aug. 2 – 5 &amp; Aug. 9 – 12</li>
+                        <li><strong>Session 6:</strong> Aug. 16 – 19 &amp; Aug. 23 – 26</li>
                     </ul>
                     <p>Camp runs from Monday - Thursday 9:00am - 4:00pm</p>
                     <p>Please MAIL completed forms with a $200 deposit per session. Deposit is NON-REFUNDABLE but TRANSFERABLE to other sessions of same season.</p>
