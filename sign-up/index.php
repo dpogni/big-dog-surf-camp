@@ -30,7 +30,7 @@
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em></p>
                 <p>Feel free to email with any questions. We’ll see you soon!</p>
                 <p><span class="banner">Weekly camps are $1,200/session.</span></p>
-                <h3 style="margin-top: 30px;">Registration Downloads</h3>
+                <!-- <h3 style="margin-top: 30px;">Registration Downloads</h3>
                 <ul class="pdfList">
                     <li>
                         <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="Download Waiver" />Download Waiver</a>
@@ -38,7 +38,7 @@
                     <li>
                         <a href='/pdfs/RegForm2021.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2021 Registration Form</a>
                     </li>
-                </ul>
+                </ul> -->
             </section>
             <section class="col--right">
                 <figure>

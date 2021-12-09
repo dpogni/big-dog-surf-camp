@@ -33,17 +33,17 @@
                     <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at <a href="https://goo.gl/maps/ECkKRZFcW9Q9DgN47" target="_blank">240 Shoreline Hwy, Mill Valley</a>, and will be shuttled to the beach. All campers must wear masks in the van, at dropoff, and at pickup.
                         The camp runs from 9am to 4pm.</p>
                     <hr />
-                    <h2>Summer 2021 BDSC Dates:</h2>
+                    <h2>Summer 2022 BDSC Dates:</h2>
                     <section class="banner">
                         <p>Sessions may be modified due to changing CDC and Marin County guidelines.</p>
                     </section>
                     <ul class="info ul">
-                        <li><strong>Session 1:</strong> June 7 – 10 &amp; June 14 – 17</li>
-                        <li><del><strong>Session 2:</strong> June 21 – 24 &amp; June 28 – July 1</del> (sold out)</li>
-                        <li><del><strong>Session 3:</strong> July 6 – 9 &amp; July 12 – 15</del> (sold out)</li>
-                        <li><del><strong>Session 4:</strong> July 19 – 22 &amp; July 26 – 29</del> (sold out)</li>
-                        <li><strong>Session 5:</strong> Aug. 2 – 5 &amp; Aug. 9 – 12</li>
-                        <li><strong>Session 6:</strong> Aug. 16 – 19 &amp; Aug. 23 – 26</li>
+                        <li><strong>Session 1:</strong> June 6 – 9 &amp; June 13 – 16</li>
+                        <li><strong>Session 2:</strong> June 20 – 23 &amp; June 27 – 30</li>
+                        <li><strong>Session 3:</strong> July 5 – 8 &amp; July 11 – 14</li>
+                        <li><strong>Session 4:</strong> July 18 – 21 &amp; July 25 – 28</li>
+                        <li><strong>Session 5:</strong> Aug. 1 – 4 &amp; Aug. 8 – 11</li>
+                        <li><strong>Session 6:</strong> Aug. 15 – 18 &amp; Aug. 22 – 25</li>
                     </ul>
                     <p>Camp runs from Monday - Thursday 9:00am - 4:00pm</p>
                     <p>Please MAIL completed forms with a $200 deposit per session. Deposit is NON-REFUNDABLE but TRANSFERABLE to other sessions of same season.</p>
