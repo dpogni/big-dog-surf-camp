@@ -26,7 +26,7 @@
             <section class="col--left">
                 <h2>Sign Up</h2>
                 <p>To sign up, please follow the directions in the registration form.</p>
-                <p>NEW PAYMENT/REFUND POLICY: please pay in full. A $200 processing fee will be kept for all sign ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund. </p>
+                <p>PAYMENT DUE IN FULL WITH SIGN-UP, $1200/two week ssession. A $200 processing fee will be kept for all sign ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund. </p>
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em></p>
                 <p>Feel free to email with any questions. We’ll see you soon!</p>
                 <p><span class="banner">Weekly camps are $1,200/session.</span></p>
