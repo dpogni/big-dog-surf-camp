@@ -16,12 +16,10 @@
     <meta name="Revisit-after" content="7 Day">
     <title>Big Dog Surf Camp 🏄‍♀️ <?php echo date("Y"); ?></title>
     <link rel="stylesheet" href="stylesheets/default.css" media="screen" />
-
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
 
 <body>
-
     <?php include 'includes/header.html' ?>
     <section class="container">
         <main class="maincontent clearfix">
@@ -46,7 +44,9 @@
                         <li><strong>Session 6:</strong> Aug. 15 – 18 &amp; Aug. 22 – 25</li>
                     </ul>
                     <p>Camp runs from Monday - Thursday 9:00am - 4:00pm</p>
-                    <p>Please MAIL completed forms with a $200 deposit per session. Deposit is NON-REFUNDABLE but TRANSFERABLE to other sessions of same season.</p>
+                    <p>Minimum sign up is the two week, session block.</p>
+                    <p><strong>New Payment / Refund Policy</strong><br />
+                    Payment due in full with sign up, $1,200 per 2 week session. A $200 processing fee will be kept for all sign ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.</p>
                     <section class="banner">
                         <p>Sign up <a href="/sign-up/">now</a>.</p>
                     </section>
