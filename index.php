@@ -37,7 +37,7 @@
                     </section>
                     <ul class="info ul">
                         <li><strong>Session 1:</strong> June 6 – 9 &amp; June 13 – 16</li>
-                        <li><strong>Session 2:</strong> June 20 – 23 &amp; June 27 – 30</li>
+                        <li><del><strong>Session 2:</strong> June 20 – 23 &amp; June 27 – 30</del> (sold out)</li>
                         <li><strong>Session 3:</strong> July 5 – 8 &amp; July 11 – 14</li>
                         <li><strong>Session 4:</strong> July 18 – 21 &amp; July 25 – 28</li>
                         <li><strong>Session 5:</strong> Aug. 1 – 4 &amp; Aug. 8 – 11</li>
