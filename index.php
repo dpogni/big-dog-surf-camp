@@ -44,7 +44,7 @@
                         <li><strong>Session 6:</strong> Aug. 15 – 18 &amp; Aug. 22 – 25</li>
                     </ul>
                     <p>Camp runs from Monday - Thursday 9:00am - 4:00pm</p>
-                    <p>Minimum sign-up are two week, session blocks. One week sign-ups allowed for sessions 1 and 6.</p>
+                    <p>Minimum sign-up are two week, session blocks.</p>
                     <p><strong>New Payment / Refund Policy</strong><br />
                     Payment due in full with sign up, $1,200 per 2 week session. A $200 processing fee will be kept for all sign ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.</p>
                     <section class="banner">
