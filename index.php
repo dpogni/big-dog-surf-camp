@@ -14,7 +14,7 @@
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="Revisit-after" content="7 Day">
-    <title>Big Dog Surf Camp 🏄‍♀️ <?php echo date("Y"); ?></title>
+    <title>Big Dog Surf Camp - <?php echo date("Y"); ?></title>
     <link rel="stylesheet" href="stylesheets/default.css" media="screen" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>
@@ -36,17 +36,20 @@
                         <p>Sessions may be modified due to changing CDC and Marin County guidelines.</p>
                     </section>
                     <ul class="info ul">
-                        <li><strong>Session 1:</strong> June 6 – 9 &amp; June 13 – 16</li>
-                        <li><strong>Session 2:</strong> June 20 – 23 &amp; June 27 – 30</li>
-                        <li><strong>Session 3:</strong> July 5 – 8 &amp; July 11 – 14</li>
-                        <li><strong>Session 4:</strong> July 18 – 21 &amp; July 25 – 28</li>
-                        <li><strong>Session 5:</strong> Aug. 1 – 4 &amp; Aug. 8 – 11</li>
-                        <li><strong>Session 6:</strong> Aug. 15 – 18 &amp; Aug. 22 – 25</li>
+                        <li><strong>Session 1:</strong> June 12 – 15 &amp; June 19 – 22</li>
+                        <li><strong>Session 2:</strong> June 26 – 29 &amp; July 5 – 7 (Wed–Fri)</li>
+                        <li><strong>Session 3:</strong> July 10 – 13 &amp; July 17 – 20</li>
+                        <li><strong>Session 4:</strong> July 24 – 27 &amp; July 31 – Aug 3</li>
+                        <li><strong>Session 5:</strong> Aug 7 – 10 &amp; Aug 14 – 17</li>
+                        <li><strong>Session 6:</strong> Aug 21 – 24 &amp; Aug 28 – 31</li>
                     </ul>
-                    <p>Camp runs from Monday - Thursday 9:00am - 4:00pm</p>
+                    <p>Camp runs from Monday – Thursday 9:00am – 4:00pm</p>
                     <p>Minimum sign-up are two week, session blocks.</p>
-                    <p><strong>New Payment / Refund Policy</strong><br />
-                    Payment due in full with sign up, $1,200 per 2 week session. A $200 processing fee will be kept for all sign ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.</p>
+                    <p><strong>Payment / Refund Policy</strong><br />
+                    Payment due in full with sign up. A $200 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.</p>
+                    <p>$1,200 per 2 week session</br>
+                    Sesson 3: 1050</p>
+                    <p>$700 per individual week based on availability.</p>
                     <section class="banner">
                         <p>Sign up <a href="/sign-up/">now</a>.</p>
                     </section>
