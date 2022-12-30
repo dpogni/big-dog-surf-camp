@@ -48,9 +48,9 @@
                     <p>
                         <strong>Payment / Refund Policy</strong><br />
                         Payment due in full with sign up, $1,200 per 2 week session. Payment due in full with sign up. A $200 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.</p>
-                    <section class="banner">
+                    <!-- <section class="banner">
                         <p>Sign up <a href="/sign-up/">now</a>.</p>
-                    </section>
+                    </section> -->
                 </section>
                 <section class="col--right">
                     <section class="video-player">
