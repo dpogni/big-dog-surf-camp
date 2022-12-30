@@ -32,15 +32,15 @@
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em></p>
                 <p>Feel free to email with any questions. We’ll see you soon!</p>
                 <p><span class="banner">Minimum sign up is the two week, session block.</span></p>
-                <!-- <h3 style="margin-top: 30px;">Registration Downloads</h3>
+                <h3 style="margin-top: 30px;">Registration Downloads</h3>
                 <ul class="pdfList">
                     <li>
                         <a href='/pdfs/BigDogWaiver.pdf'><img src='/images/pdf_icon.png' alt="Download Waiver" />Download Waiver</a>
                     </li>
                     <li>
-                        <a href='/pdfs/RegForm2022.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2022 Registration Form</a>
+                        <a href='/pdfs/RegForm2023.pdf'><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2023 Registration Form</a>
                     </li>
-                </ul> -->
+                </ul>
             </section>
             <section class="col--right">
                 <figure>
