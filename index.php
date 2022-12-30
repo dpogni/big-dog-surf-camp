@@ -62,7 +62,7 @@
                         <p style="text-align:center;"><a href="http://vimeo.com/70013062">The Sunnydale Kids</a> from <a href="http://vimeo.com/rippleeffectsurf">Ripple Effect</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
                     </div>
                     <figure>
-                        <img src="images/coaches.jpg" alt="Big Dog Surf Camp" />
+                        <img src="images/IMG_4571_s.jpg" alt="Big Dog Surf Camp" />
                         <figcaption class="small">Our coaches</figcaption>
                     </figure>
                     <div class="banner3"><a href="https://www.instagram.com/bigdogsurfcamp/" target="_blank">Follow us on Instagram &rarr;</a></div>
