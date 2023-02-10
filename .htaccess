@@ -7,3 +7,5 @@ Redirect 301 /media.html /media
 Redirect 301 /signup.html /sign-up
 RewriteRule ^pdfs/RegForm201.*\.pdf$ /pdfs/RegForm2020.pdf [R=301,L]
 RewriteRule ^pdfs/RegForm200.*\.pdf$ /pdfs/RegForm2020.pdf [R=301,L]
+
+RedirectMatch 404 /\.git
