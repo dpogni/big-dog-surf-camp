@@ -37,7 +37,7 @@
                     </section>
                     <ul class="info ul">
                         <li><strong>Session 1:</strong> June 12 – 15 &amp; June 19 – 22</li>
-                        <li><strong>Session 2:</strong> June 26 – 29 &amp; July 5 – 7 (Wed–Fri / $1050)</li>
+                        <li><del><strong>Session 2:</strong> June 26 – 29 &amp; July 5 – 7 (Wed–Fri / $1050)</del> (sold out)</li>
                         <li><strong>Session 3:</strong> July 10 – 13 &amp; July 17 – 20</li>
                         <li><strong>Session 4:</strong> July 24 – 27 &amp; July 31 – Aug 3</li>
                         <li><strong>Session 5:</strong> Aug 7 – 10 &amp; Aug 14 – 17</li>
