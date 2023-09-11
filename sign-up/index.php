@@ -38,7 +38,7 @@
                         <a href='/pdfs/BigDogWaiver.pdf' target="_blank"><img src='/images/pdf_icon.png' alt="Download Waiver" />Download Waiver</a>
                     </li>
                     <li>
-                        <a href='/pdfs/RegForm2023.pdf' target="_blank"><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2023 Registration Form</a>
+                        <a href='/pdfs/RegForm2024.pdf' target="_blank"><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2024 Registration Form</a>
                     </li>
                 </ul>
             </section>
