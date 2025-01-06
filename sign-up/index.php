@@ -27,8 +27,9 @@
                 <h2>Sign Up</h2>
                 <p>To sign up, please follow the directions in the registration form.</p>
                 <p>
-                <strong>Payment / Refund Policy</strong><br />
-                        Payment due in full with sign up, $1,200 per 2 week session. Payment due in full with sign up. A $200 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.</p>
+                    <strong>Payment / Refund Policy</strong><br />
+                    Payment due in full with sign up, $1,200 per 2 week session. Payment due in full with sign up. A $200 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.
+                </p>
                 <p class="clear"><em>We will send you a confirmation email as soon as we receive it.</em></p>
                 <p>Feel free to email with any questions. We’ll see you soon!</p>
                 <p><span class="banner">Minimum sign up is the two week, session block.</span></p>
@@ -38,7 +39,7 @@
                         <a href='/pdfs/BigDogWaiver.pdf' target="_blank"><img src='/images/pdf_icon.png' alt="Download Waiver" />Download Waiver</a>
                     </li>
                     <li>
-                        <a href='/pdfs/RegForm2024.pdf' target="_blank"><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2024 Registration Form</a>
+                        <a href='/pdfs/RegForm2025.pdf' target="_blank"><img src='/images/pdf_icon.png' alt="Download Reg Form" />Download 2025 Registration Form</a>
                     </li>
                 </ul>
             </section>

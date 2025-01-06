@@ -31,7 +31,7 @@
                     <p>Campers should be dropped off near <a href="http://www.prooflab.com/" target="_blank"> Proof Lab</a>, at <a href="https://goo.gl/maps/ECkKRZFcW9Q9DgN47" target="_blank">240 Shoreline Hwy, Mill Valley</a>, and will be shuttled to the beach. All campers must wear masks in the van, at dropoff, and at pickup.
                         The camp runs from 9am to 4pm.</p>
                     <hr />
-                    <h2>Summer 2024 BDSC Dates:</h2>
+                    <h2>Summer 2025 BDSC Dates:</h2>
                     <section class="banner">
                         <p>Sessions may be modified due to changing CDC and Marin County guidelines.</p>
                     </section>
