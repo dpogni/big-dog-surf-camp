@@ -36,18 +36,19 @@
                         <p>Sessions may be modified due to changing CDC and Marin County guidelines.</p>
                     </section>
                     <ul class="info ul">
-                        <li><strong>Session 1:</strong> June 10 – 13 &amp; June 17 – 20</li>
-                        <li><strong>Session 2:</strong> June 24 – 27 &amp; July 1 – 3 (M–W $1050)</li>
-                        <li><strong>Session 3:</strong> July 8 – 11 &amp; July 15 – 18</li>
-                        <li><strong>Session 4:</strong> July 22 – 25 &amp; July 29 – Aug 1</li>
-                        <li><strong>Session 5:</strong> Aug 5 – 8 &amp; Aug 12 – 15</li>
-                        <li><strong>Session 6:</strong> Aug 19 – 22 &amp; Aug 26 – 29</li>
+                        <li><strong>Session 1:</strong> June 9 – 12 & 16 – 19</li>
+                        <li><strong>Session 2:</strong> June 23 – 26 & July 30 – 3</li>
+                        <li><strong>Session 3:</strong> July 7 – 10 & 14 – 17</li>
+                        <li><strong>Session 4:</strong> July 21 – 24 & 28 – 31</li>
+                        <li><strong>Session 5:</strong> Aug 4 – 7 & 11 – 14</li>
+                        <li><strong>Session 6:</strong> Aug 18 – 21 & 25 – 28</li>
                     </ul>
                     <p>Camp runs from Monday – Thursday 9:00am – 4:00pm</p>
                     <p>Minimum sign-up are two week, session blocks.</p>
                     <p>
                         <strong>Payment / Refund Policy</strong><br />
-                        Payment due in full with sign up, $1,200 per 2 week session. Payment due in full with sign up. A $200 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.</p>
+                        Payment due in full with sign up, $1,200 per 2 week session. Payment due in full with sign up. A $200 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.
+                    </p>
                     <section class="banner">
                         <p>Sign up <a href="/sign-up/">now</a>.</p>
                     </section>
