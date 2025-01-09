@@ -32,9 +32,6 @@
                         The camp runs from 9am to 4pm.</p>
                     <hr />
                     <h2>Summer 2025 BDSC Dates:</h2>
-                    <section class="banner">
-                        <p>Sessions may be modified due to changing CDC and Marin County guidelines.</p>
-                    </section>
                     <ul class="info ul">
                         <li><strong>Session 1:</strong> June 9 – 12 & 16 – 19</li>
                         <li><strong>Session 2:</strong> June 23 – 26 & July 30 – 3</li>
@@ -44,11 +41,11 @@
                         <li><strong>Session 6:</strong> Aug 18 – 21 & 25 – 28</li>
                     </ul>
                     <p>Camp runs from Monday – Thursday 9:00am – 4:00pm</p>
-                    <p>Minimum sign-up are two week, session blocks.</p>
                     <p>
                         <strong>Payment / Refund Policy</strong><br />
-                        Payment due in full with sign up, $1,200 per 2 week session. Payment due in full with sign up. A $200 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.
+                        Payment due in full with sign up, $1,400 per 2 week session. Payment due in full with sign up. A $100 processing fee will be kept for all sign-ups. Your remaining payment can be refunded as long as you cancel up to two weeks prior to your scheduled surf session. Anything after that, we cannot offer a refund.
                     </p>
+                    <p>One week sessions are possible based on availability for $700.</p>
                     <section class="banner">
                         <p>Sign up <a href="/sign-up/">now</a>.</p>
                     </section>
