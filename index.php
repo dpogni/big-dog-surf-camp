@@ -34,7 +34,7 @@
                     <h2>Summer 2025 BDSC Dates:</h2>
                     <ul class="info ul">
                         <li><strong>Session 1:</strong> June 9 – 12 & 16 – 19</li>
-                        <li><strong>Session 2:</strong> June 23 – 26 & July 30 – 3</li>
+                        <li><strong>Session 2:</strong> June 23 – 26 & June 30 – July 3</li>
                         <li><strong>Session 3:</strong> July 7 – 10 & 14 – 17</li>
                         <li><strong>Session 4:</strong> July 21 – 24 & 28 – 31</li>
                         <li><strong>Session 5:</strong> Aug 4 – 7 & 11 – 14</li>
