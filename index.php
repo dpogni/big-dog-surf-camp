@@ -33,12 +33,12 @@
                     <hr />
                     <h2>Summer 2025 BDSC Dates:</h2>
                     <ul class="info ul">
-                        <li><strong>Session 1:</strong> June 9 – 12 & 16 – 19</li>
-                        <li><strong>Session 2:</strong> June 23 – 26 & June 30 – July 3</li>
-                        <li><strong>Session 3:</strong> July 7 – 10 & 14 – 17</li>
-                        <li><strong>Session 4:</strong> July 21 – 24 & 28 – 31</li>
-                        <li><strong>Session 5:</strong> Aug 4 – 7 & 11 – 14</li>
-                        <li><strong>Session 6:</strong> Aug 18 – 21 & 25 – 28</li>
+                        <li><strong>Session 1:</strong> June 8 – 11 &amp; June 15 – 18</li>
+                        <li><strong>Session 2:</strong> June 22 – 25 &amp; June 29 – July 2</li>
+                        <li><strong>Session 3:</strong> July 6 – 9 &amp; July 13 – 16</li>
+                        <li><strong>Session 4:</strong> July 20 – 23 &amp; July 27 – 30</li>
+                        <li><strong>Session 5:</strong> August 3 – 6 &amp; August 10 – 13</li>
+                        <li><strong>Session 6:</strong> August 17 – 20 &amp; August 24 – 27</li>
                     </ul>
                     <p>Camp runs from Monday – Thursday 9:00am – 4:00pm</p>
                     <p>
